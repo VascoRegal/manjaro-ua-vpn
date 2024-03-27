@@ -1,6 +1,8 @@
 # manjaro-ua-vpn
 
 
+Simple shell script to install dependencies and configure snx on manjaro environments
+
 ```
 sh ./manjaro-vpn-ua.sh
 ```
